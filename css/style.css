@@ -5512,7 +5512,8 @@ figcaption {
   }
 
   .coming-soon-icon {
-    height: 100px;
+    height: 20%;
+    width: 20%;
   }
 
   .subscribe-form {
